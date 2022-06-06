@@ -1,0 +1,85 @@
+베타네콜(bethanechol): 손떨림
+이트라코나졸(itraconazole): 가려움·손저림
+둘록세틴(duloxetine): 산동(동공확대)
+스테로이드(steroid) 제제: 백내장
+베클로메타손(beclomethasone) 흡입제: 진균 감염
+세레콕시브(celecoxib): (야간)요실금
+암로디핀(amlodipine): 잇몸 증식
+카페시타빈(capecitabine): 눈물 분비 증가
+타크로리무스(tacrolimus): 근육통·사지통
+타목시펜(tamoxifen): 지방간
+니페디핀(nifedipine): 혈당상승
+솔리페나신(solifenacin): 안압상승
+프로프라놀롤(propranolol): 탈모
+클로르페니라민(chlorpheniramine): 기억상실
+필로카르핀(pilocarpine): 호흡곤란
+글리메피리드(glimepiride): 저혈당증
+아미오다론(amiodarone): 갑상선 기능이상
+멜록시캄(meloxicam): 혈중 칼륨농도 증가
+덱시부프로펜(dexibuprofen): 시각장애
+리바록사반(rivaroxaban): 혈뇨
+에스트리올 질좌제(estriol vaginal suppositories): 전신증상(발열, 통증, 구토 등)
+둘라글루타이드(dulaglutide): 급성췌장염
+암로디핀(amlodipine): 후각이상
+이소트레티노인(isotretinoin): 모발 손실(탈모)
+다파글리플로진(dapagliflozin): 방광염
+메틸페니데이트(methylphenidate): 가슴두근거림
+에르투글리플로진(ertugliflozin)/피오글리타존(pioglitazone): 식욕부진, 불면, 우울감 등
+이소소르비드이질산염(isosorbide dinitrate) 스프레이: 두통
+피타바스타틴(pitavastatin): 간질성폐렴
+미녹시딜(minoxidil)액: 외이염 및 시야흐림
+툴로부테롤(tulobuterol) 패치: 불면, 나쁜 기분 등
+아리피프라졸(aripiprazole): 식욕 및 체중 증가
+아미오다론(amiodarone): 마비성 보행
+아토르바스타틴(atorvastatin): 급성 췌장염
+에토리콕시브(etoricoxib): 신장 손상
+아목시실린(amoxicillin): 질염 유사 증상
+타크로리무스(tacrolimus): 근육경련
+펜터민(phentermine): 호흡곤란(숨가쁨)
+메틸프레드니솔론(methylprednisolone): 망막장애
+클로미펜(clomiphene): 광시증(섬광증)
+콜키신(colchicine): 전신 증상(배뇨곤란, 관절통, 무기력 등)
+피나스테리드(finasteride): 남성 유방통
+토피라메이트(topiramate): 모발 손실
+트레티노인(tretinoin): 피부 색소침착
+둘록세틴(duloxetine): 배뇨곤란
+졸피뎀(zolpidem): 몽유병
+카르바마제핀(carbamazepine): 가려움증
+플루나리진(flunarizine): 흐느적거리는 몸
+실로스타졸(cilostazol): 두통
+미노사이클린(minocycline): 손톱 변색
+레보설피리드(levosulpiride): 유즙분비
+미르타자핀(mirtazapine): 손가락관절통 및 부종
+메플로퀸(mefloquine): 정신신경계 이상반응
+아지트로마이신(azithromycin): 이명 악화
+테네리글립틴(teneligliptin): 급성 췌장염
+리세드론산나트륨(risedronate sodium): 사지/관절통
+메트포르민(metformin): 식욕상실
+독시사이클린(doxycycline): 궤양성식도염
+아토르바스타틴(atorvastatin): 시야결손
+라록시펜(raloxifene): 안와부종
+나프로닐옥살산염(nafronyl oxalate): 요로결석
+피르페니돈(pirfenidone): 피부발진 및 물집
+오셀타미비르(oseltamivir): 환각
+카르베딜롤(carvedilol): 건선 악화
+티몰롤(timolol): 기침
+카베르골린(cabergoline): 가려움 및 피부변색
+부프레노르핀(buprenorphine): 실신
+피타바스타틴(pitavastatin): 음주 시 혈뇨
+다파글리플로진(dapagliflozin): 빈뇨
+프레드니솔론(prednisolone): 어지러움 및 환각
+타다라필(tadalafil): 근육통
+와파린(warfarin) 및 메트로니다졸(metronidazole): INR 증가
+타크로리무스(tacrolimus): 저림 및 눈밑떨림
+아리피프라졸(aripiprazole): 핍뇨 및 저나트륨혈증
+아토목세틴(atomoxetine): 두통
+에스시탈로프람(escitalopram): 언어장애 및 보행실조
+가바펜틴(gabapentin): 탈모
+피록시캄(piroxicam): 기침
+사이클로스포린(cyclosporine): 다모증
+암로디핀(amlodipine): 다리 부종
+테르비나핀(terbinafine): 미각 상실
+실데나필(sildenafil): 청색시증
+세팔락신(cephalexin): 간질성 경련 유사 증상
+디곡신(digoxin): 졸음 및 시야 이상
+독사조신(doxazosin): 심한 어지러움증
